@@ -1,0 +1,28 @@
+1.執行 ITRI_phase1_1003.py (terminal 會出現網址 (例:http://127.0.0.1:7860/))
+
+2.輸入Prompt:
+
+Beef_noodles:
+
+"a bowl of beef and noodles with a spoon in it on a wooden table with a white napkin and a green leaf"
+"a bowl of noodles with beef and broccoli in a brown sauce with chopsticks on a table"
+
+Bubble_tea:
+"a tall glass filled with a drink with chocolate chips on top of it and milk in the bottom of the glass"
+"a cup of coffee with a bear shaped lid and a plastic straw holder on a table with a cookie"
+
+Cold_noodles:
+"a plate of noodles with sauce and greens on a yellow tablecloth with a blue and white plate on it"
+"a plate of noodles with vegetables and sauce on a table top with a wooden table topper and a wooden table"
+
+Egg_pancake_roll:
+"a person holding a chopstick over a sandwich in a box of food on a table with a bag of chips"
+"a plate of food with a meat and vegetable entree on it and a fork in the background with a fork in the foreground"
+
+Pineapple_cake:
+"a plate of food that is on a table with a spoon and a cup of liquid on it and a few pieces of food on the plate"
+"a box of cookies and a cup of tea on a table with a doily and doily on it"
+
+Bawan:
+"a bowl of food with broccoli and meat in it on a table top with a bowl of rice"
+"a bowl of food with meat and sauce on it next to a bowl of rice and a side dish of rice"

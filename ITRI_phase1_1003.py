@@ -28,7 +28,7 @@ pipe.scheduler = EulerAncestralDiscreteScheduler.from_config(pipe.scheduler.conf
 
 # 加載 LoRA 權重(後面再補上 LoRA 的 scale 參數)
 lora_weights_path = "LoRA_weight\\last003.safetensors"
-pipe.load_lora_weights(lora_weights_path, lora_scale=0.75)
+pipe.load_lora_weights(lora_weights_path, lora_scale=0.5)
 
 # 調整圖像亮度和對比度的函數
 def adjust_image(image, brightness=1.0, contrast=1.0):
